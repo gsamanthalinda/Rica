@@ -1,4 +1,4 @@
-# CodeHive backend project template
+#  backend project template
 
 A Python 3.11 / FastAPI starter with dependencies defined in `pyproject.toml`, PR checks,
 automated tests, and Heroku deployment. Build your own features around the small
